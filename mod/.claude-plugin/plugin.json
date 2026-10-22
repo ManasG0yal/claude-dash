@@ -1,0 +1,1 @@
+{ "name": "agent-dashboard", "version": "1.0.0", "description": "claude-dash companion: reports each session's limits, context, cost and subagents, and applies per-session model and effort" , "types": "./types/index.d.ts" }
